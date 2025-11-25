@@ -1,3 +1,0 @@
-# Mínimal requirements - solo librerías estándar de Python
-# Python 3.6+
-# No se necesitan instalaciones adicionales
