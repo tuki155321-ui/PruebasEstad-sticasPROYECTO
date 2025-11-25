@@ -1,0 +1,14 @@
+
+## 🚀 **Para ejecutar localmente:**
+
+```bash
+# 1. Crear entorno virtual (opcional)
+python -m venv venv
+source venv/bin/activate  # Linux/Mac
+# venv\Scripts\activate  # Windows
+
+# 2. Instalar dependencias
+pip install -r requirements.txt
+
+# 3. Ejecutar la aplicación
+streamlit run app.py
